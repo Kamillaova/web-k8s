@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/bytedance/sonic v1.10.2
 	github.com/gofiber/contrib/fiberzap/v2 v2.1.2
-	github.com/gofiber/fiber/v2 v2.51.0
+	github.com/gofiber/fiber/v2 v2.52.1
 	github.com/gofiber/swagger v0.1.14
 	github.com/google/uuid v1.5.0
 	github.com/swaggo/swag v1.16.2
